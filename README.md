@@ -40,3 +40,5 @@ The first job is to answer:
 - Build: $5,000/mo
 
 Start here: https://jerednel.github.io/answerproof/
+
+Sample teardown: https://jerednel.github.io/answerproof/sample/
