@@ -1,6 +1,6 @@
 # Answerproof
 
-AI search visibility audits for B2B SaaS and high-value B2B services.
+Audit-first AI search visibility for B2B SaaS and high-value B2B services.
 
 Answerproof answers one question:
 
@@ -14,6 +14,17 @@ Answerproof answers one question:
 - Competitor mention and citation table
 - Source-gap analysis
 - 30-day fix plan
+
+## Positioning
+
+This is not another monitoring dashboard.
+
+The first job is to answer:
+
+- Which buyer questions matter?
+- Which competitors appear?
+- Which sources drive the citations?
+- What should change in the next 30 days?
 
 ## Best Fit
 
